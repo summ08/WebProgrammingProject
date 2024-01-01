@@ -1,0 +1,17 @@
+C:\Users\Sümeyye\source\repos\SukaHospital\sukaHospitals.Utilities\obj\Debug\net6.0\sukaHospitals.Utilities.csproj.AssemblyReference.cache
+C:\Users\Sümeyye\source\repos\SukaHospital\sukaHospitals.Utilities\obj\Debug\net6.0\sukaHospitals.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sümeyye\source\repos\SukaHospital\sukaHospitals.Utilities\obj\Debug\net6.0\sukaHospitals.Utilities.AssemblyInfoInputs.cache
+C:\Users\Sümeyye\source\repos\SukaHospital\sukaHospitals.Utilities\obj\Debug\net6.0\sukaHospitals.Utilities.AssemblyInfo.cs
+C:\Users\Sümeyye\source\repos\SukaHospital\sukaHospitals.Utilities\obj\Debug\net6.0\sukaHospitals.Utilities.csproj.CoreCompileInputs.cache
+C:\Users\Sümeyye\source\repos\SukaHospital\sukaHospitals.Utilities\bin\Debug\net6.0\sukaHospitals.Utilities.deps.json
+C:\Users\Sümeyye\source\repos\SukaHospital\sukaHospitals.Utilities\bin\Debug\net6.0\sukaHospitals.Utilities.dll
+C:\Users\Sümeyye\source\repos\SukaHospital\sukaHospitals.Utilities\bin\Debug\net6.0\sukaHospitals.Utilities.pdb
+C:\Users\Sümeyye\source\repos\SukaHospital\sukaHospitals.Utilities\bin\Debug\net6.0\SukaHospital.Models.dll
+C:\Users\Sümeyye\source\repos\SukaHospital\sukaHospitals.Utilities\bin\Debug\net6.0\SukaHospital.Repositories.dll
+C:\Users\Sümeyye\source\repos\SukaHospital\sukaHospitals.Utilities\bin\Debug\net6.0\SukaHospital.Repositories.pdb
+C:\Users\Sümeyye\source\repos\SukaHospital\sukaHospitals.Utilities\bin\Debug\net6.0\SukaHospital.Models.pdb
+C:\Users\Sümeyye\source\repos\SukaHospital\sukaHospitals.Utilities\obj\Debug\net6.0\sukaHospitals.Utilities.csproj.CopyComplete
+C:\Users\Sümeyye\source\repos\SukaHospital\sukaHospitals.Utilities\obj\Debug\net6.0\sukaHospitals.Utilities.dll
+C:\Users\Sümeyye\source\repos\SukaHospital\sukaHospitals.Utilities\obj\Debug\net6.0\refint\sukaHospitals.Utilities.dll
+C:\Users\Sümeyye\source\repos\SukaHospital\sukaHospitals.Utilities\obj\Debug\net6.0\sukaHospitals.Utilities.pdb
+C:\Users\Sümeyye\source\repos\SukaHospital\sukaHospitals.Utilities\obj\Debug\net6.0\ref\sukaHospitals.Utilities.dll

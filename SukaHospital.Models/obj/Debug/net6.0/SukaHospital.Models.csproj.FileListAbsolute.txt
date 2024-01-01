@@ -1,0 +1,12 @@
+C:\Users\Sümeyye\source\repos\SukaHospital\SukaHospital.Models\obj\Debug\net6.0\SukaHospital.Models.csproj.AssemblyReference.cache
+C:\Users\Sümeyye\source\repos\SukaHospital\SukaHospital.Models\obj\Debug\net6.0\SukaHospital.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sümeyye\source\repos\SukaHospital\SukaHospital.Models\obj\Debug\net6.0\SukaHospital.Models.AssemblyInfoInputs.cache
+C:\Users\Sümeyye\source\repos\SukaHospital\SukaHospital.Models\obj\Debug\net6.0\SukaHospital.Models.AssemblyInfo.cs
+C:\Users\Sümeyye\source\repos\SukaHospital\SukaHospital.Models\obj\Debug\net6.0\SukaHospital.Models.csproj.CoreCompileInputs.cache
+C:\Users\Sümeyye\source\repos\SukaHospital\SukaHospital.Models\bin\Debug\net6.0\SukaHospital.Models.deps.json
+C:\Users\Sümeyye\source\repos\SukaHospital\SukaHospital.Models\bin\Debug\net6.0\SukaHospital.Models.dll
+C:\Users\Sümeyye\source\repos\SukaHospital\SukaHospital.Models\bin\Debug\net6.0\SukaHospital.Models.pdb
+C:\Users\Sümeyye\source\repos\SukaHospital\SukaHospital.Models\obj\Debug\net6.0\SukaHospital.Models.dll
+C:\Users\Sümeyye\source\repos\SukaHospital\SukaHospital.Models\obj\Debug\net6.0\refint\SukaHospital.Models.dll
+C:\Users\Sümeyye\source\repos\SukaHospital\SukaHospital.Models\obj\Debug\net6.0\SukaHospital.Models.pdb
+C:\Users\Sümeyye\source\repos\SukaHospital\SukaHospital.Models\obj\Debug\net6.0\ref\SukaHospital.Models.dll

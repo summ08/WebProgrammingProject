@@ -1,0 +1,17 @@
+C:\Users\Sümeyye\source\repos\SukaHospital\SukaHospital.Repositories\obj\Debug\net6.0\SukaHospital.Repositories.csproj.AssemblyReference.cache
+C:\Users\Sümeyye\source\repos\SukaHospital\SukaHospital.Repositories\obj\Debug\net6.0\SukaHospital.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sümeyye\source\repos\SukaHospital\SukaHospital.Repositories\obj\Debug\net6.0\SukaHospital.Repositories.AssemblyInfoInputs.cache
+C:\Users\Sümeyye\source\repos\SukaHospital\SukaHospital.Repositories\obj\Debug\net6.0\SukaHospital.Repositories.AssemblyInfo.cs
+C:\Users\Sümeyye\source\repos\SukaHospital\SukaHospital.Repositories\obj\Debug\net6.0\SukaHospital.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\Sümeyye\source\repos\SukaHospital\SukaHospital.Repositories\bin\Debug\net6.0\SukaHospital.Repositories.deps.json
+C:\Users\Sümeyye\source\repos\SukaHospital\SukaHospital.Repositories\bin\Debug\net6.0\SukaHospital.Repositories.runtimeconfig.json
+C:\Users\Sümeyye\source\repos\SukaHospital\SukaHospital.Repositories\bin\Debug\net6.0\SukaHospital.Repositories.dll
+C:\Users\Sümeyye\source\repos\SukaHospital\SukaHospital.Repositories\bin\Debug\net6.0\SukaHospital.Repositories.pdb
+C:\Users\Sümeyye\source\repos\SukaHospital\SukaHospital.Repositories\obj\Debug\net6.0\SukaHospital.Repositories.dll
+C:\Users\Sümeyye\source\repos\SukaHospital\SukaHospital.Repositories\obj\Debug\net6.0\refint\SukaHospital.Repositories.dll
+C:\Users\Sümeyye\source\repos\SukaHospital\SukaHospital.Repositories\obj\Debug\net6.0\SukaHospital.Repositories.pdb
+C:\Users\Sümeyye\source\repos\SukaHospital\SukaHospital.Repositories\obj\Debug\net6.0\SukaHospital.Repositories.genruntimeconfig.cache
+C:\Users\Sümeyye\source\repos\SukaHospital\SukaHospital.Repositories\obj\Debug\net6.0\ref\SukaHospital.Repositories.dll
+C:\Users\Sümeyye\source\repos\SukaHospital\SukaHospital.Repositories\bin\Debug\net6.0\SukaHospital.Models.dll
+C:\Users\Sümeyye\source\repos\SukaHospital\SukaHospital.Repositories\bin\Debug\net6.0\SukaHospital.Models.pdb
+C:\Users\Sümeyye\source\repos\SukaHospital\SukaHospital.Repositories\obj\Debug\net6.0\SukaHospital.Repositories.csproj.CopyComplete
